@@ -1,4 +1,4 @@
-### [Dacon] 모션 키포인트 검출 AI 경진대회
+### [Dacon] 모션 키포인트 검출 AI 경진대회 2위 솔루션
 - [[대회링크]](https://dacon.io/competitions/official/235701/overview/description/) | [[코드공유]](https://dacon.io/competitions/official/235701/codeshare/2478?page=2&dtype=recent)
 
 <br></br>
